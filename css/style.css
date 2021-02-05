@@ -1,0 +1,43 @@
+.header{
+	background-color:green;
+	min-height: 100px;
+}
+.wrapper{
+	border: 10px solid pink;
+	overflow:hidden;
+}
+.blog{
+background-color: red;
+min-height: 150px;
+width: 70%;
+ float:left;
+}
+.contact{
+background-color: yellow;
+min-height: 150px;
+width:30%;
+float:right;
+}
+.container{
+	overflow: hidden;
+}
+.box{
+	width: 33.33%;
+	min-height: 100px;
+}
+.box1{
+	background-color: teal;
+	float: left;
+}
+.box2{
+	background-color: green;
+	float: left;
+}
+.box3{
+	background-color: red;
+	float: left;
+}
+.footer{
+background-color: black;
+	min-height: 100px;
+}	
